@@ -14,13 +14,18 @@ Flagging suspicious transactions for further investigation.
 By utilizing SQL queries and data analysis techniques, we model and analyze data to uncover patterns that could indicate fraud.
 
 
+
 Technologies Used
+
+
  
 MySQL: For creating the database schema and running queries to detect potential fraud.
 
 Python: Used for generating synthetic data (randomized data), and for querying the MySQL database.
 
 Pandas: For handling and manipulating data.
+
+
 
 
 Step 1: Database Setup
